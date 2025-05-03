@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**yashgoel75/yashgoel75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student pursuing B.Tech in Artificial Intelligence and Machine Learning.  
+Currently learning Java, DSA, and building projects that actually solve problems.
 
-Here are some ideas to get you started:
+### 🌱 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Clean, purposeful code
+- Real-world problem solving
+- Thoughtful design — minimal, intentional
+- Understanding how great products are built
+
+### 🧠 Currently Focused On
+
+- Mastering DSA and Java
+- Strengthening my Git & GitHub workflow
+
+### 🛠 Tech Stack
+
+Java · JavaScript · Bootstrap · Tailwind CSS · React · Next.Js · Solidity · Python · Git · GitHub
+
+### 📁 Projects
+
+Most of my work lives in private repos (for now), but I’m slowly moving public-facing ones here.  
+What’s visible is always maintained with purpose.
+
+### 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/yashgoel04)
+- [Portfolio Website](https://yashgoel.me)
