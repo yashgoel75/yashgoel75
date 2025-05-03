@@ -26,5 +26,5 @@ What’s visible is always maintained with purpose.
 
 ### 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/yashgoel04)
+- [LinkedIn](https://www.linkedin.com/in/yashgoel75)
 - [Portfolio Website](https://yashgoel.me)
