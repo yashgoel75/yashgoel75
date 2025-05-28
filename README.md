@@ -30,6 +30,9 @@ Currently working on:
 - **Chainlink Certified: Blockchain Fundamentals**  
 Covered smart contracts, Ethereum, oracles, token standards, and interoperability
 
+- **Cyfrin Updraft Certified: Chainlink Fundamentals**  
+Covered smart contracts, Chainlink Oracles, Data Feeds, Automation, CCIP, Functions, VRF and more
+
 
 ## 📫 Connect with Me
 
