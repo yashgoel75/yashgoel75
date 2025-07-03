@@ -1,41 +1,55 @@
 # Hi, I'm Yash 👋
 
 I'm an undergraduate student pursuing B.Tech in **Artificial Intelligence and Machine Learning** at VIPS-TC.  
-I love building clean, real-world solutions — with a strong focus on thoughtful design and user experience.
+I’m love building clean, reliable, and human-friendly digital products — with a strong focus on design, performance, and real-world impact.
 
 Currently working on:
-- Improving my full-stack development skills
-- Exploring blockchain and Web3 technology
-- Strengthening my understanding of system design and DSA
+- Building scalable full-stack Web3 applications  
+- Diving deeper into blockchain infrastructure & smart contracts  
+- Sharpening my system design and DSA skills  
 
+---
 
 ## 🌱 Interests
 
 - Clean, purposeful code  
-- Building products that solve real problems  
-- Human-friendly design and seamless user experience  
-- Decentralized technologies and future-focused systems  
+- Designing products that solve real problems  
+- Minimal, intuitive, and user-first experiences  
+- Decentralized technologies and next-gen internet systems  
 
+---
 
 ## 🛠 Tech Stack
 
 **Languages:** Java · JavaScript · Python · Solidity  
 **Frameworks & Libraries:** React · Next.js · Bootstrap · Tailwind CSS  
-**Blockchain:** Viem · MetaMask · Ethereum  
-**Tools:** Git · GitHub · MongoDB  
+**Blockchain:** Solidity · Viem · Wagmi · RainbowKit · MetaMask · Ethereum  
+**Tools & Platforms:** Git · GitHub · MongoDB · Resend · EmailJS  
 
+---
 
-## 📜 Certification
+## 📜 Certifications
 
 - **Chainlink Certified: Blockchain Fundamentals**  
-Covered smart contracts, Ethereum, oracles, token standards, and interoperability
+Covered smart contracts, Ethereum, tokenization, oracles, and Web3 architecture
 
 - **Cyfrin Updraft Certified: Chainlink Fundamentals**  
-Covered smart contracts, Chainlink Oracles, Data Feeds, Automation, CCIP, Functions, VRF and more
+Explored Chainlink Functions, Automation, VRF, CCIP Tokens/Messages, Data Feeds, and Proof of Reserve
 
+---
+
+## 📁 Featured Projects
+
+- **Aurika** – Digital gold dApp with real-time price feeds, gifting feature, OTP+PIN auth, and portfolio tracking  
+  [_aurika.yashgoel.me_](https://aurika.yashgoel.me) • [GitHub](https://github.com/yashgoel75/aurika)
+
+- **Walbo** – Web3 payment system using custom usernames (like UPI IDs) to simplify ETH transfers  
+  [_walbo.yashgoel.me_](https://walbo.yashgoel.me) • [GitHub](https://github.com/yashgoel75/walbo)
+
+---
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yashgoel75)  
-- [Portfolio Website](https://yashgoel.me)  
-- Email: connect@yashgoel.me  
+- [Portfolio](https://yashgoel.me)  
+- Email: connect@yashgoel.me
