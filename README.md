@@ -40,7 +40,7 @@ Explored Chainlink Functions, Automation, VRF, CCIP Tokens/Messages, Data Feeds,
 
 ## 📁 Featured Projects
 
-- **Dwelp** – Blockchain-powered platform to issue and verify official PDFs (like notices, certificates) with wallet-based signing and public verification
+- **Dwelp** – Blockchain-powered platform to issue and verify official PDFs (like notices, certificates) with wallet-based signing and public verification<br>
   [_dwelp.yashgoel.me_](https://dwelp.yashgoel.me) • [GitHub](https://github.com/yashgoel75/dwelp)
   
 - **Aurika** – Digital gold dApp with real-time price feeds, gifting feature, OTP+PIN auth, and portfolio tracking  
