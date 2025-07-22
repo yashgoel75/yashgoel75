@@ -21,9 +21,9 @@ Currently working on:
 
 ## 🛠 Tech Stack
 
-**Languages:** Java · JavaScript · TypeScript · Python · Solidity  
-**Frameworks & Libraries:** React · Next.js · Tailwind CSS · Bootstrap  
-**Blockchain:** Solidity · Viem · Wagmi · RainbowKit · MetaMask · Ethereum · Polygon
+**Languages:** Java · JavaScript · TypeScript · Python · Solidity<br>
+**Frameworks & Libraries:** React · Next.js · Tailwind CSS · Bootstrap<br>
+**Blockchain:** Solidity · Viem · Wagmi · RainbowKit · MetaMask · Ethereum · Polygon<br>
 **Tools & Platforms:** Git · GitHub · MongoDB · Vercel · Resend · EmailJS · IPFS · Pinata · Infura · Foundry · OpenSSL  
 
 ---
