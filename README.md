@@ -3,6 +3,12 @@
 I'm an undergraduate student pursuing B.Tech in **Artificial Intelligence and Machine Learning** at VIPS-TC.  
 I’m love building clean, reliable, and human-friendly digital products — with a strong focus on design, performance, and real-world impact.
 
+---
+
+👨‍💻 Founder of **Cleit** — the official, college-recognized platform of the Career Development Centre (CDC) at VIPS-TC, adopted for managing placements, internships, and career opportunities, with 200+ student registrations within days of launch.  
+
+---
+
 Currently working on:
 - Building scalable full-stack Web3 applications  
 - Diving deeper into blockchain infrastructure & smart contracts  
