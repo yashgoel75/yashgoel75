@@ -30,7 +30,7 @@ Currently working on:
 **Languages:** Java · JavaScript · TypeScript · Python · Solidity<br>
 **Frameworks & Libraries:** React · Next.js · Tailwind CSS · Bootstrap<br>
 **Blockchain:** Solidity · Viem · Wagmi · RainbowKit · MetaMask · Ethereum · Polygon<br>
-**Tools & Platforms:** Git · GitHub · MongoDB · Vercel · Resend · EmailJS · IPFS · Pinata · Infura · Foundry · OpenSSL  
+**Tools & Platforms:** Git · GitHub · MongoDB · Redis · Firebase · Vercel · Resend · EmailJS · IPFS · Pinata · Infura · Foundry · OpenSSL  
 
 ---
 
