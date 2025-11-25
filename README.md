@@ -5,8 +5,8 @@ I’m love building clean, reliable, and human-friendly digital products — wit
 
 ---
 
-👨‍💻 Founder of [**Cleit**](https://cleit.in) — the official, college-recognized platform of the Career Development Centre (CDC) at VIPS-TC, adopted for managing placements, internships, and career opportunities, with 200+ student registrations within days of launch.
-
+👨‍💻 Founder of [**Cleit**](https://cdc.cleit.in) — the official, college-recognized platform of the Career Development Centre (CDC) at VIPS-TC, adopted for managing placements, internships, and career opportunities, with 200+ student registrations within days of launch.
+👨‍💻 Founder of [**Kavyalok**](https://kavyalok.in) — a digital space empowering writers, poets, and creators to share authentic expressions and build a collaborative literary community.
 ---
 
 Currently working on:
