@@ -60,5 +60,5 @@ Explored Chainlink Functions, Automation, VRF, CCIP Tokens/Messages, Data Feeds,
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yashgoel75)  
-- [Portfolio](https://yashgoel.me)  
+- [Portfolio](https://yash-goel.vercel.app)  
 - Email: yash.goel8370@gmail.com
