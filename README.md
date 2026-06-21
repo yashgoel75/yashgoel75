@@ -47,13 +47,13 @@ Explored Chainlink Functions, Automation, VRF, CCIP Tokens/Messages, Data Feeds,
 ## 📁 Featured Projects
 
 - **Dwelp** – Blockchain-powered platform to issue and verify official PDFs (like notices, certificates) with wallet-based signing and public verification<br>
-  [_dwelp.yashgoel.me_](https://dwelp.yashgoel.me) • [GitHub](https://github.com/yashgoel75/dwelp)
+  [_dwelp.vercel.app_](https://dwelp.vercel.app) • [GitHub](https://github.com/yashgoel75/dwelp)
   
 - **Aurika** – Digital gold dApp with real-time price feeds, gifting feature, OTP+PIN auth, and portfolio tracking  
-  [_aurika.yashgoel.me_](https://aurika.yashgoel.me) • [GitHub](https://github.com/yashgoel75/aurika)
+  [_aurika.vercel.app_](https://aurika.vercel.app) • [GitHub](https://github.com/yashgoel75/aurika)
 
 - **Walbo** – Web3 payment system using custom usernames (like UPI IDs) to simplify ETH transfers  
-  [_walbo.yashgoel.me_](https://walbo.yashgoel.me) • [GitHub](https://github.com/yashgoel75/walbo)
+  [_walbo.vercel.app_](https://walbo.vercel.app) • [GitHub](https://github.com/yashgoel75/walbo)
 
 ---
 
