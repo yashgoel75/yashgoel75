@@ -1,4 +1,4 @@
-# Hi, I'm Yash 👋
+# Hi, I am Yash 👋
 
 I'm an undergraduate student pursuing B.Tech in **Artificial Intelligence and Machine Learning** at VIPS-TC.  
 I love building clean, reliable, and human-friendly digital products — with a strong focus on design, performance, and real-world impact.
